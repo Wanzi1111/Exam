@@ -1,0 +1,1 @@
+.loading_big{position:fixed;z-index:100;width:100%;height:100%;top:0;left:0;background:transparent}.loading_box{position:absolute;width:200px;height:200px;background:url(../../static/imgs/loading.gif);background-size:100% 100%;left:50%;top:50%;transform:translate(-50%, -50%)}
